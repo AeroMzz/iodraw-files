@@ -179,10 +179,10 @@
           <mxGeometry x="200" y="720" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-3" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="90" y="778" width="20" height="92" as="geometry" />
+          <mxGeometry x="10" y="778" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-7" value="会员管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="778" width="20" height="92" as="geometry" />
+          <mxGeometry x="90" y="778" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-8" value="场地管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="778" width="20" height="92" as="geometry" />
@@ -194,31 +194,31 @@
           <mxGeometry x="430" y="778" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-11" value="会员信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="890" width="20" height="100" as="geometry" />
+          <mxGeometry x="70" y="890" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-12" value="会员信息添加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1010" width="20" height="92" as="geometry" />
+          <mxGeometry x="20" y="1010" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-13" value="会员等级与折扣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="890" width="20" height="100" as="geometry" />
+          <mxGeometry x="110" y="890" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-14" value="会员信息修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1010" width="20" height="92" as="geometry" />
+          <mxGeometry x="40" y="1010" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-17" value="&lt;div style=&quot;&quot;&gt;会员信息删除&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1010" width="20" height="92" as="geometry" />
+          <mxGeometry x="60" y="1010" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-18" value="&lt;div style=&quot;&quot;&gt;会员信息查询&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1010" width="20" height="92" as="geometry" />
+          <mxGeometry x="80" y="1010" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-19" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="808" width="20" height="92" as="geometry" />
+          <mxGeometry x="40" y="808" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-20" value="&lt;div style=&quot;&quot;&gt;等级设置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1010" width="20" height="92" as="geometry" />
+          <mxGeometry x="125" y="1010" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-21" value="&lt;div style=&quot;&quot;&gt;折扣计算&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="225" y="1010" width="20" height="92" as="geometry" />
+          <mxGeometry x="145" y="1010" width="20" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
