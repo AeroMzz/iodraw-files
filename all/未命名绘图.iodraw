@@ -242,7 +242,7 @@
           <mxGeometry x="403.5" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-31" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1020" width="20" height="92" as="geometry" />
+          <mxGeometry x="280" y="1010" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-32" value="费用结算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="886" width="20" height="100" as="geometry" />
@@ -253,11 +253,11 @@
         <mxCell id="dgVoPvKePdet-8eri02X-34" value="场地信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="886" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dgVoPvKePdet-8eri02X-36" value="会员等级与折扣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dgVoPvKePdet-8eri02X-36" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="886" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-37" value="会员等级与折扣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="910" width="20" height="100" as="geometry" />
+          <mxGeometry x="550" y="886" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-38" value="会员等级与折扣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="886" width="20" height="100" as="geometry" />
