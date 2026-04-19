@@ -220,6 +220,18 @@
         <mxCell id="dgVoPvKePdet-8eri02X-21" value="&lt;div style=&quot;&quot;&gt;折扣计算&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="145" y="1010" width="20" height="92" as="geometry" />
         </mxCell>
+        <mxCell id="dgVoPvKePdet-8eri02X-22" value="&lt;div style=&quot;&quot;&gt;场地状态维护&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="894" width="20" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="dgVoPvKePdet-8eri02X-23" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="848" width="20" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="dgVoPvKePdet-8eri02X-24" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="858" width="20" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="dgVoPvKePdet-8eri02X-25" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="868" width="20" height="92" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
