@@ -179,7 +179,7 @@
           <mxGeometry x="260" y="700" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-3" value="&lt;div style=&quot;&quot;&gt;订单查询&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="404" y="1010" width="20" height="92" as="geometry" />
+          <mxGeometry x="400" y="1010" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-7" value="会员管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="760" width="20" height="92" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry x="90" y="1010" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-19" value="&lt;div style=&quot;&quot;&gt;订单取消&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="424" y="1010" width="20" height="92" as="geometry" />
+          <mxGeometry x="420" y="1010" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-20" value="&lt;div style=&quot;&quot;&gt;等级设置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="130" y="1010" width="20" height="92" as="geometry" />
