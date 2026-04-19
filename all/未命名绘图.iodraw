@@ -176,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-2" value="羽毛球球馆管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="720" width="110" height="30" as="geometry" />
+          <mxGeometry x="255" y="720" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-3" value="&lt;div style=&quot;&quot;&gt;订单查询&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="404" y="1010" width="20" height="92" as="geometry" />
@@ -271,7 +271,7 @@
         <mxCell id="dgVoPvKePdet-8eri02X-41" value="&lt;div style=&quot;&quot;&gt;基本参数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="552" y="1000" width="20" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="dgVoPvKePdet-8eri02X-42" value="&lt;div style=&quot;&quot;&gt;订单取消&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="dgVoPvKePdet-8eri02X-42" value="&lt;div style=&quot;&quot;&gt;日志管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="572" y="1000" width="20" height="92" as="geometry" />
         </mxCell>
       </root>
