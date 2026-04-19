@@ -178,9 +178,6 @@
         <mxCell id="dgVoPvKePdet-8eri02X-2" value="羽毛球球馆管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="720" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dgVoPvKePdet-8eri02X-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dgVoPvKePdet-8eri02X-3" target="dgVoPvKePdet-8eri02X-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-3" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="90" y="778" width="20" height="92" as="geometry" />
         </mxCell>
@@ -200,7 +197,7 @@
           <mxGeometry x="150" y="890" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-12" value="人员管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1010" width="20" height="92" as="geometry" />
+          <mxGeometry x="120" y="1000" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-13" value="会员等级与折扣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="890" width="20" height="100" as="geometry" />
