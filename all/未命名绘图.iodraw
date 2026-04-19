@@ -256,11 +256,20 @@
         <mxCell id="dgVoPvKePdet-8eri02X-36" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="886" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dgVoPvKePdet-8eri02X-37" value="会员等级与折扣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dgVoPvKePdet-8eri02X-37" value="系统设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="886" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-38" value="数据统计与报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="886" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dgVoPvKePdet-8eri02X-39" value="&lt;div style=&quot;&quot;&gt;订单取消&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="434" y="1020" width="20" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="dgVoPvKePdet-8eri02X-40" value="&lt;div style=&quot;&quot;&gt;订单取消&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="444" y="1030" width="20" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="dgVoPvKePdet-8eri02X-41" value="&lt;div style=&quot;&quot;&gt;订单取消&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="454" y="1040" width="20" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
