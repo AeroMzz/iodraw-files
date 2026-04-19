@@ -263,13 +263,16 @@
           <mxGeometry x="480" y="886" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-39" value="&lt;div style=&quot;&quot;&gt;订单取消&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="434" y="1020" width="20" height="92" as="geometry" />
+          <mxGeometry x="480" y="1000" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-40" value="&lt;div style=&quot;&quot;&gt;订单取消&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="444" y="1030" width="20" height="92" as="geometry" />
+          <mxGeometry x="510" y="1000" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-41" value="&lt;div style=&quot;&quot;&gt;订单取消&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="454" y="1040" width="20" height="92" as="geometry" />
+          <mxGeometry x="552" y="1000" width="20" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="dgVoPvKePdet-8eri02X-42" value="&lt;div style=&quot;&quot;&gt;订单取消&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="572" y="1000" width="20" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
