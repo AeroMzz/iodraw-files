@@ -179,7 +179,7 @@
           <mxGeometry x="200" y="720" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-3" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="140" y="790" width="20" height="92" as="geometry" />
+          <mxGeometry x="440" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-7" value="会员管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="778" width="20" height="92" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry x="80" y="1010" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-19" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="200" y="894" width="20" height="92" as="geometry" />
+          <mxGeometry x="460" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-20" value="&lt;div style=&quot;&quot;&gt;等级设置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="125" y="1010" width="20" height="92" as="geometry" />
@@ -239,10 +239,10 @@
           <mxGeometry x="320" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-30" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="230" y="918" width="20" height="92" as="geometry" />
+          <mxGeometry x="403.5" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-31" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="394" y="888" width="20" height="92" as="geometry" />
+          <mxGeometry x="280" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-32" value="费用结算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="886" width="20" height="100" as="geometry" />
