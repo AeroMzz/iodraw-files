@@ -396,8 +396,15 @@
             <mxPoint x="20" y="900" as="sourcePoint" />
             <mxPoint x="220" y="980" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="250" y="1000" />
               <mxPoint x="220" y="1000" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgVoPvKePdet-8eri02X-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.482;entryY=1.034;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dgVoPvKePdet-8eri02X-31" target="dgVoPvKePdet-8eri02X-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="860" as="sourcePoint" />
+            <mxPoint x="300" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
