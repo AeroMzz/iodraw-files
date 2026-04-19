@@ -182,7 +182,7 @@
           <mxGeometry x="404" y="1010" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-7" value="会员管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="770" width="20" height="92" as="geometry" />
+          <mxGeometry x="100" y="760" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-8" value="场地管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="770" width="20" height="92" as="geometry" />
@@ -278,6 +278,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="880" as="sourcePoint" />
             <mxPoint x="60" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="870" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
