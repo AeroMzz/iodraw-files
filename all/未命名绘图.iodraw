@@ -381,6 +381,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="dgVoPvKePdet-8eri02X-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dgVoPvKePdet-8eri02X-23" target="dgVoPvKePdet-8eri02X-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="850" as="sourcePoint" />
+            <mxPoint x="190" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="1000" />
+              <mxPoint x="220" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
