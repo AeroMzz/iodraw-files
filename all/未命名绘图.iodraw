@@ -587,9 +587,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ghEqgarmn6fMINSceet-1" value="&lt;div style=&quot;&quot;&gt;场地添加&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1020" width="20" height="92" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
