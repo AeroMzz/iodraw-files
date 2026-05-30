@@ -1309,6 +1309,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="wWK5OU4gvV0PhkqCeU-N-77" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dgVoPvKePdet-8eri02X-11" target="dgVoPvKePdet-8eri02X-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-678" y="919" as="sourcePoint" />
+            <mxPoint x="-628" y="869" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-535" y="876" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
