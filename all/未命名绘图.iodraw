@@ -422,7 +422,7 @@
           <mxGeometry x="279" y="556" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-22" value="积分管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-202" y="889" width="20" height="100" as="geometry" />
+          <mxGeometry x="-230" y="910" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-25" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-330" y="386" width="20" height="92" as="geometry" />
@@ -567,6 +567,27 @@
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-43" y="480" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZY8uicQDl-w34hblyVL-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-33" y="490" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZY8uicQDl-w34hblyVL-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-23" y="500" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZY8uicQDl-w34hblyVL-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-13" y="510" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZY8uicQDl-w34hblyVL-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3" y="520" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZY8uicQDl-w34hblyVL-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7" y="530" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZY8uicQDl-w34hblyVL-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17" y="540" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZY8uicQDl-w34hblyVL-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-163" y="893" width="20" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
