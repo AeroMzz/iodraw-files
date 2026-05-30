@@ -394,7 +394,7 @@
         <mxCell id="_ZY8uicQDl-w34hblyVL-9" value="&lt;div style=&quot;&quot;&gt;积分兑换&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-171" y="1031" width="20" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-10" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="_ZY8uicQDl-w34hblyVL-10" value="&lt;div style=&quot;&quot;&gt;积分调整&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-151" y="1031" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-11" value="&lt;div style=&quot;&quot;&gt;等级调整&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -422,10 +422,7 @@
           <mxGeometry x="279" y="556" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-22" value="积分管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-138" y="889" width="20" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-24" value="积分调整" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="1073.3333740234375" width="76" height="36" as="geometry" />
+          <mxGeometry x="-202" y="889" width="20" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
