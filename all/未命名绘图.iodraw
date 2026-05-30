@@ -518,7 +518,7 @@
           <mxGeometry x="205" y="904" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-67" value="收入管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="114" y="911" width="20" height="100" as="geometry" />
+          <mxGeometry x="-101" y="892" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-68" value="历史预订查询" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1127" y="219" width="20" height="100" as="geometry" />
@@ -636,9 +636,6 @@
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-108" value="&lt;div style=&quot;&quot;&gt;收入分类统计&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-70" y="1020" width="20" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-109" value="&lt;div style=&quot;&quot;&gt;教练课程收入&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-110" value="&lt;div style=&quot;&quot;&gt;会员充值收入&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-108" y="1020" width="20" height="92" as="geometry" />
