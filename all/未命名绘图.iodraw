@@ -347,7 +347,7 @@
           <mxGeometry x="961" y="112" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-3" value="财务管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="194" y="803" width="20" height="92" as="geometry" />
+          <mxGeometry x="47" y="778" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-5" value="班次管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="366" y="803" width="20" height="92" as="geometry" />
@@ -509,10 +509,7 @@
           <mxGeometry x="404" y="909" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-63" value="前台班次管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="329" y="909" width="20" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-65" value="财务报表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="269" y="900" width="20" height="100" as="geometry" />
+          <mxGeometry y="892" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-66" value="费用结算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-54" y="890" width="20" height="100" as="geometry" />
@@ -618,15 +615,6 @@
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-101" value="&lt;div style=&quot;&quot;&gt;班次安排&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="315" y="1034" width="20" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-103" value="&lt;div style=&quot;&quot;&gt;年报表&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="114" y="1020" width="20" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-104" value="&lt;div style=&quot;&quot;&gt;月报表&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="94" y="1020" width="20" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-105" value="&lt;div style=&quot;&quot;&gt;日报表&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="74" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-106" value="&lt;div style=&quot;&quot;&gt;在线支付结算&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-42" y="1020" width="20" height="92" as="geometry" />
