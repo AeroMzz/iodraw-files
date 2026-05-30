@@ -506,7 +506,7 @@
           <mxGeometry x="-397" y="892" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-79" value="充值管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-473" y="892" width="20" height="100" as="geometry" />
+          <mxGeometry x="-469" y="892" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-81" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1323" y="542" width="20" height="92" as="geometry" />
@@ -703,7 +703,8 @@
             <mxPoint x="-509" y="1046" as="sourcePoint" />
             <mxPoint x="-459" y="996" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-463" y="1010" />
+              <mxPoint x="-477" y="1010" />
+              <mxPoint x="-459" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
