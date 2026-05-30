@@ -664,10 +664,10 @@
           <mxGeometry x="322" y="475" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-109" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="332" y="485" width="20" height="92" as="geometry" />
+          <mxGeometry x="105" y="1041" width="20" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-110" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="342" y="495" width="20" height="92" as="geometry" />
+        <mxCell id="_ZY8uicQDl-w34hblyVL-110" value="&lt;div style=&quot;&quot;&gt;会员充值收入&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="87" y="1041" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-111" value="&lt;div style=&quot;&quot;&gt;场地预订收入&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="67" y="1041" width="20" height="92" as="geometry" />
