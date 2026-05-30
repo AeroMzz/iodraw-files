@@ -488,7 +488,7 @@
           <mxGeometry x="-130" y="586" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-46" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="596" width="20" height="92" as="geometry" />
+          <mxGeometry x="-300" y="1007" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-47" value="&lt;div style=&quot;&quot;&gt;账户余额查询&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-396" y="1030" width="20" height="92" as="geometry" />
@@ -583,7 +583,7 @@
         <mxCell id="_ZY8uicQDl-w34hblyVL-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7" y="530" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ZY8uicQDl-w34hblyVL-78" value="教练信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-255" y="889" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-79" value="充值管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
