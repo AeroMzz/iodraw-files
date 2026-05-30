@@ -176,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-2" value="羽毛球球馆管理系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="106" y="672" width="110" height="30" as="geometry" />
+          <mxGeometry x="-7" y="673" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dgVoPvKePdet-8eri02X-7" value="会员管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-631" y="770" width="20" height="92" as="geometry" />
