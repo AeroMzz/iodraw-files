@@ -657,13 +657,8 @@
         <mxCell id="_ZY8uicQDl-w34hblyVL-106" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="322" y="475" width="20" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZY8uicQDl-w34hblyVL-107">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="453.6666906020223" y="608.9411764705883" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-107" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="359" y="563" width="20" height="92" as="geometry" />
+        <mxCell id="_ZY8uicQDl-w34hblyVL-107" value="&lt;div style=&quot;&quot;&gt;账户余额扣费&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="174" y="1038" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-108" value="&lt;div style=&quot;&quot;&gt;收入分类统计&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="125" y="1041" width="20" height="92" as="geometry" />
