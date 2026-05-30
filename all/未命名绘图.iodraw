@@ -350,7 +350,7 @@
           <mxGeometry x="47" y="778" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-5" value="班次管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="366" y="803" width="20" height="92" as="geometry" />
+          <mxGeometry x="176" y="778" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-6" value="活动管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="627" y="787" width="20" height="92" as="geometry" />
@@ -503,7 +503,7 @@
           <mxGeometry x="540" y="904" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-61" value="班次历史查询" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="476" y="904" width="20" height="100" as="geometry" />
+          <mxGeometry x="122" y="892" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-62" value="交接班管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="65" y="892" width="20" height="100" as="geometry" />
