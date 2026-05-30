@@ -371,7 +371,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-1" value="教练管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="780" width="20" height="92" as="geometry" />
+          <mxGeometry x="-216" y="817" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-2" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%95%99%E7%BB%83%E7%AE%A1%E7%90%86%E6%A8%A1%E5%9D%97%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22279%22%20y%3D%22770%22%20width%3D%2220%22%20height%3D%2292%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;预订管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="780" width="20" height="92" as="geometry" />
@@ -449,46 +449,46 @@
           <mxGeometry x="-260" y="456" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-33" value="&lt;div style=&quot;&quot;&gt;课程查询&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="13" y="1007" width="20" height="92" as="geometry" />
+          <mxGeometry x="-23" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-34" value="&lt;div style=&quot;&quot;&gt;课程删除&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-7" y="1007" width="20" height="92" as="geometry" />
+          <mxGeometry x="-43" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-35" value="&lt;div style=&quot;&quot;&gt;课程修改&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-27" y="1007" width="20" height="92" as="geometry" />
+          <mxGeometry x="-63" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-36" value="&lt;div style=&quot;&quot;&gt;课程添加&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-47" y="1007" width="20" height="92" as="geometry" />
+          <mxGeometry x="-83" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-37" value="&lt;div style=&quot;&quot;&gt;预约查询&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-83" y="1007" width="20" height="92" as="geometry" />
+          <mxGeometry x="-119" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-38" value="&lt;div style=&quot;&quot;&gt;预约取消&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-103" y="1007" width="20" height="92" as="geometry" />
+          <mxGeometry x="-139" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-39" value="&lt;div style=&quot;&quot;&gt;预约确认&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-123" y="1007" width="20" height="92" as="geometry" />
+          <mxGeometry x="-159" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-40" value="&lt;div style=&quot;&quot;&gt;日程修改&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-165" y="1007" width="20" height="92" as="geometry" />
+          <mxGeometry x="-201" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-41" value="&lt;div style=&quot;&quot;&gt;日程查询&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-185" y="1007" width="20" height="92" as="geometry" />
+          <mxGeometry x="-221" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-42" value="&lt;div style=&quot;&quot;&gt;日程安排&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-203" y="1007" width="20" height="92" as="geometry" />
+          <mxGeometry x="-239" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-43" value="&lt;div style=&quot;&quot;&gt;查询教练&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-243" y="1007" width="20" height="92" as="geometry" />
+          <mxGeometry x="-279" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-44" value="&lt;div style=&quot;&quot;&gt;删除教练&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-263" y="1007" width="20" height="92" as="geometry" />
+          <mxGeometry x="-299" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-45" value="&lt;div style=&quot;&quot;&gt;修改教练信息&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-283" y="1007" width="20" height="92" as="geometry" />
+          <mxGeometry x="-319" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-46" value="&lt;div style=&quot;&quot;&gt;添加教练&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="1007" width="20" height="92" as="geometry" />
+          <mxGeometry x="-336" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-47" value="&lt;div style=&quot;&quot;&gt;账户余额查询&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-396" y="1030" width="20" height="92" as="geometry" />
@@ -575,16 +575,16 @@
           <mxGeometry x="-23" y="500" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-75" value="教练课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-27" y="882" width="20" height="100" as="geometry" />
+          <mxGeometry x="-63" y="919" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-76" value="教练预约管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-103" y="879" width="20" height="100" as="geometry" />
+          <mxGeometry x="-139" y="916" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-77" value="教练日程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="885" width="20" height="100" as="geometry" />
+          <mxGeometry x="-226" y="922" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-78" value="教练信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-255" y="889" width="20" height="100" as="geometry" />
+          <mxGeometry x="-291" y="926" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-79" value="充值管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-416" y="892" width="20" height="100" as="geometry" />
