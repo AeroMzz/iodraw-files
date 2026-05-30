@@ -497,7 +497,7 @@
           <mxGeometry x="664" y="909" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-60" value="活动信息管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="904" width="20" height="100" as="geometry" />
+          <mxGeometry x="139" y="892" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-62" value="交接班管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="65" y="892" width="20" height="100" as="geometry" />
@@ -575,16 +575,16 @@
           <mxGeometry x="634" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-90" value="&lt;div style=&quot;&quot;&gt;查询活动&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="591" y="1041" width="20" height="92" as="geometry" />
+          <mxGeometry x="172" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-91" value="&lt;div style=&quot;&quot;&gt;删除活动&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="571" y="1041" width="20" height="92" as="geometry" />
+          <mxGeometry x="152" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-92" value="&lt;div style=&quot;&quot;&gt;修改活动&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="551" y="1041" width="20" height="92" as="geometry" />
+          <mxGeometry x="132" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-93" value="&lt;div style=&quot;&quot;&gt;添加活动&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="531" y="1041" width="20" height="92" as="geometry" />
+          <mxGeometry x="112" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-96" value="&lt;div style=&quot;&quot;&gt;交接确认&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="87" y="1020" width="20" height="92" as="geometry" />
