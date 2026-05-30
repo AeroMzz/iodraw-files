@@ -552,8 +552,8 @@
         <mxCell id="_ZY8uicQDl-w34hblyVL-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="499" y="459" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="126" y="913" width="20" height="100" as="geometry" />
+        <mxCell id="_ZY8uicQDl-w34hblyVL-71" value="场地预订管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="909" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-72" value="场地维护管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3" y="286" width="20" height="100" as="geometry" />
