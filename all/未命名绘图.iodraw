@@ -519,8 +519,8 @@
         <mxCell id="_ZY8uicQDl-w34hblyVL-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389" y="349" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399" y="359" width="20" height="100" as="geometry" />
+        <mxCell id="_ZY8uicQDl-w34hblyVL-60" value="活动信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="904" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-61" value="班次历史查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="476" y="904" width="20" height="100" as="geometry" />
@@ -613,7 +613,7 @@
           <mxGeometry x="282" y="435" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-93" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="272" y="425" width="20" height="92" as="geometry" />
+          <mxGeometry x="531" y="1041" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-94" value="&lt;div style=&quot;&quot;&gt;班次统计&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="488" y="1041" width="20" height="92" as="geometry" />
