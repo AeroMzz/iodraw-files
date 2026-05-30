@@ -491,10 +491,10 @@
           <mxGeometry x="-120" y="596" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-47" value="&lt;div style=&quot;&quot;&gt;账户余额查询&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="1040" width="20" height="92" as="geometry" />
+          <mxGeometry x="-105" y="1040" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-48" value="&lt;div style=&quot;&quot;&gt;充值记录查询&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1040" width="20" height="92" as="geometry" />
+          <mxGeometry x="-125" y="1040" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-49" value="&lt;div style=&quot;&quot;&gt;账户充值&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-143" y="1040" width="20" height="92" as="geometry" />
@@ -587,7 +587,7 @@
           <mxGeometry x="17" y="540" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="907" width="20" height="100" as="geometry" />
+          <mxGeometry x="-125" y="902" width="20" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
