@@ -311,7 +311,7 @@
           <mxGeometry x="740" y="770" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-3" value="财务管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="38" y="778" width="20" height="92" as="geometry" />
+          <mxGeometry x="43" y="773" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-6" value="活动管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="199" y="773" width="20" height="92" as="geometry" />
@@ -1388,10 +1388,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wWK5OU4gvV0PhkqCeU-N-87" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_ZY8uicQDl-w34hblyVL-3">
+        <mxCell id="wWK5OU4gvV0PhkqCeU-N-87" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZY8uicQDl-w34hblyVL-63" target="_ZY8uicQDl-w34hblyVL-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-30" y="910" as="sourcePoint" />
             <mxPoint x="20" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="880" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
