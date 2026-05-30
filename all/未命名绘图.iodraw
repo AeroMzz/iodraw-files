@@ -517,9 +517,6 @@
         <mxCell id="_ZY8uicQDl-w34hblyVL-71" value="场地预订管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="885" y="219" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-72" value="场地维护管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3" y="286" width="20" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-73" value="场地价格管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="582" y="890" width="20" height="100" as="geometry" />
         </mxCell>
@@ -635,25 +632,16 @@
           <mxGeometry x="936" y="344" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-122" value="&lt;div style=&quot;&quot;&gt;预订查询&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="905" y="344" width="20" height="92" as="geometry" />
+          <mxGeometry x="685" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-123" value="&lt;div style=&quot;&quot;&gt;取消预订&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="885" y="344" width="20" height="92" as="geometry" />
+          <mxGeometry x="665" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-124" value="&lt;div style=&quot;&quot;&gt;修改预订&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="865" y="344" width="20" height="92" as="geometry" />
+          <mxGeometry x="645" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-125" value="&lt;div style=&quot;&quot;&gt;创建预订&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="845" y="344" width="20" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-126" value="&lt;div style=&quot;&quot;&gt;维护状态更新&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="23" y="420" width="20" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-127" value="&lt;div style=&quot;&quot;&gt;维护记录查询&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="3" y="420" width="20" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-128" value="&lt;div style=&quot;&quot;&gt;维护记录添加&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-17" y="420" width="20" height="92" as="geometry" />
+          <mxGeometry x="625" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-138" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1323" y="542" width="20" height="92" as="geometry" />
