@@ -373,10 +373,10 @@
           <mxGeometry x="366" y="803" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-6" value="活动管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="551" y="797" width="20" height="92" as="geometry" />
+          <mxGeometry x="671" y="494" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-7" value="系统管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="612" y="790" width="20" height="92" as="geometry" />
+          <mxGeometry x="732" y="487" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-8" value="&lt;div style=&quot;&quot;&gt;积分查询&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-519" y="1021" width="20" height="92" as="geometry" />
@@ -516,7 +516,7 @@
         <mxCell id="_ZY8uicQDl-w34hblyVL-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="339" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ZY8uicQDl-w34hblyVL-59" value="活动图片管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="591" y="909" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-60" value="活动信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -601,7 +601,7 @@
           <mxGeometry x="262" y="415" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-89" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="272" y="425" width="20" height="92" as="geometry" />
+          <mxGeometry x="634" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-90" value="&lt;div style=&quot;&quot;&gt;查询活动&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="591" y="1041" width="20" height="92" as="geometry" />
