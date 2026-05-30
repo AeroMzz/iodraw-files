@@ -1113,9 +1113,15 @@
             <mxPoint x="540" y="1053" as="sourcePoint" />
             <mxPoint x="590" y="1003" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="572" y="1010" />
+              <mxPoint x="572" y="1009" />
               <mxPoint x="592" y="1009" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWK5OU4gvV0PhkqCeU-N-53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="525" y="1036" as="sourcePoint" />
+            <mxPoint x="575" y="986" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
