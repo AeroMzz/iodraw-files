@@ -488,7 +488,7 @@
           <mxGeometry x="1117" y="859" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-57" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1024" y="862" width="20" height="100" as="geometry" />
+          <mxGeometry x="273" y="892" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-59" value="活动图片管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="208" y="892" width="20" height="100" as="geometry" />
@@ -678,15 +678,6 @@
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-144" value="&lt;div style=&quot;&quot;&gt;营收统计&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1180" y="990" width="20" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-145" value="&lt;div style=&quot;&quot;&gt;权限查询&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1117" y="986" width="20" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-146" value="&lt;div style=&quot;&quot;&gt;权限分配&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1097" y="986" width="20" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-147" value="&lt;div style=&quot;&quot;&gt;角色设置&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1078" y="986" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-148" value="&lt;div style=&quot;&quot;&gt;查询用户&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="302" y="1020" width="20" height="92" as="geometry" />
