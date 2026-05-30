@@ -526,7 +526,7 @@
           <mxGeometry x="409" y="369" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-62" value="交接班管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389" y="907" width="20" height="100" as="geometry" />
+          <mxGeometry x="404" y="909" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-63" value="前台班次管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="909" width="20" height="100" as="geometry" />
@@ -622,7 +622,7 @@
           <mxGeometry x="292" y="445" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-96" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="282" y="435" width="20" height="92" as="geometry" />
+          <mxGeometry x="429" y="1038" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-97" value="&lt;div style=&quot;&quot;&gt;交接记录查询&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="409" y="1038" width="20" height="92" as="geometry" />
