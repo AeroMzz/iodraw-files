@@ -978,10 +978,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wWK5OU4gvV0PhkqCeU-N-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_ZY8uicQDl-w34hblyVL-59">
+        <mxCell id="wWK5OU4gvV0PhkqCeU-N-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZY8uicQDl-w34hblyVL-86" target="_ZY8uicQDl-w34hblyVL-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="128" y="1047" as="sourcePoint" />
             <mxPoint x="178" y="997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="206" y="1010" />
+              <mxPoint x="218" y="1009" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
