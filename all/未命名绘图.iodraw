@@ -349,9 +349,6 @@
         <mxCell id="_ZY8uicQDl-w34hblyVL-3" value="财务管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="47" y="778" width="20" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-5" value="班次管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="176" y="778" width="20" height="92" as="geometry" />
-        </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-6" value="活动管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="627" y="787" width="20" height="92" as="geometry" />
         </mxCell>
@@ -502,9 +499,6 @@
         <mxCell id="_ZY8uicQDl-w34hblyVL-60" value="活动信息管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="904" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-61" value="班次历史查询" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="122" y="892" width="20" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-62" value="交接班管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="65" y="892" width="20" height="100" as="geometry" />
         </mxCell>
@@ -591,12 +585,6 @@
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-93" value="&lt;div style=&quot;&quot;&gt;添加活动&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="531" y="1041" width="20" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-94" value="&lt;div style=&quot;&quot;&gt;班次统计&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="131" y="1020" width="20" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-95" value="&lt;div style=&quot;&quot;&gt;历史班次查询&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="111" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-96" value="&lt;div style=&quot;&quot;&gt;交接确认&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="87" y="1020" width="20" height="92" as="geometry" />
