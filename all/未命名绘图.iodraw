@@ -440,13 +440,13 @@
           <mxGeometry x="-159" y="1044" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-40" value="&lt;div style=&quot;&quot;&gt;日程修改&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-201" y="1044" width="20" height="92" as="geometry" />
+          <mxGeometry x="-302" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-41" value="&lt;div style=&quot;&quot;&gt;日程查询&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-221" y="1044" width="20" height="92" as="geometry" />
+          <mxGeometry x="-322" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-42" value="&lt;div style=&quot;&quot;&gt;日程安排&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-239" y="1044" width="20" height="92" as="geometry" />
+          <mxGeometry x="-340" y="1020" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-43" value="&lt;div style=&quot;&quot;&gt;查询教练&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-365" y="1020" width="20" height="92" as="geometry" />
@@ -551,7 +551,7 @@
           <mxGeometry x="-226" y="922" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-78" value="教练信息管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-291" y="926" width="20" height="100" as="geometry" />
+          <mxGeometry x="-397" y="892" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-79" value="充值管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-473" y="892" width="20" height="100" as="geometry" />
