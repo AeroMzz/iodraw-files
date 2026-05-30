@@ -565,7 +565,7 @@
         <mxCell id="_ZY8uicQDl-w34hblyVL-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="509" y="469" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_ZY8uicQDl-w34hblyVL-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ZY8uicQDl-w34hblyVL-72" value="场地维护管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="904" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-73" value="场地价格管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -588,6 +588,24 @@
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-79" value="充值管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-416" y="892" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZY8uicQDl-w34hblyVL-81" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="232" y="385" width="20" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZY8uicQDl-w34hblyVL-82" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="242" y="395" width="20" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZY8uicQDl-w34hblyVL-83" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="252" y="405" width="20" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZY8uicQDl-w34hblyVL-84" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="242" y="395" width="20" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZY8uicQDl-w34hblyVL-85" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="252" y="405" width="20" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZY8uicQDl-w34hblyVL-86" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="262" y="415" width="20" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
