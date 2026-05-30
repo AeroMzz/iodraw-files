@@ -515,7 +515,7 @@
           <mxGeometry x="961" y="219" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-71" value="场地预订管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="885" y="219" width="20" height="100" as="geometry" />
+          <mxGeometry x="651" y="890" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-73" value="场地价格管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="582" y="890" width="20" height="100" as="geometry" />
