@@ -521,15 +521,10 @@
           <mxGeometry x="3" y="286" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-73" value="场地价格管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="284" width="20" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="wWK5OU4gvV0PhkqCeU-N-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZY8uicQDl-w34hblyVL-74">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-118.54897173713243" y="584.431324678309" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="582" y="890" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-74" value="场地状态管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-149" y="280" width="20" height="100" as="geometry" />
+          <mxGeometry x="528" y="890" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ZY8uicQDl-w34hblyVL-75" value="教练课程管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-184" y="892" width="20" height="100" as="geometry" />
