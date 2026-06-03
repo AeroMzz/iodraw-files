@@ -1942,7 +1942,7 @@
         <mxCell id="Vpd0bGaRexXqUh_710q7-117" value="会员信息修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2226" y="430" width="20" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="Vpd0bGaRexXqUh_710q7-118" value="会员信息修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vpd0bGaRexXqUh_710q7-118" value="中英文国际化切换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2336" y="833" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-119" value="登录拦截与角色权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
