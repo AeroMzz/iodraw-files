@@ -1808,9 +1808,9 @@
           <mxGeometry x="-2280" y="334" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-180" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2270" y="344" width="20" height="92" as="geometry" />
+          <mxGeometry x="-1800" y="840" width="20" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="Vpd0bGaRexXqUh_710q7-181" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vpd0bGaRexXqUh_710q7-181" value="搜索成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1820" y="840" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-182" value="删除成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
