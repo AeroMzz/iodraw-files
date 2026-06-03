@@ -1900,8 +1900,8 @@
         <mxCell id="Vpd0bGaRexXqUh_710q7-103" value="会员信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2092" y="337" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Vpd0bGaRexXqUh_710q7-104" value="会员信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2082" y="347" width="20" height="100" as="geometry" />
+        <mxCell id="Vpd0bGaRexXqUh_710q7-104" value="学生管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2145" y="704" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-105" value="仪表盘模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2236" y="708" width="20" height="100" as="geometry" />
