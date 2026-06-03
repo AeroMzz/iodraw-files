@@ -1594,7 +1594,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vpd0bGaRexXqUh_710q7-1" value="羽毛球球馆管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vpd0bGaRexXqUh_710q7-1" value="网上学生成绩管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2030" y="690" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-104" value="学生管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2147,6 +2147,7 @@
             <mxPoint x="-1710" y="640" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-1975" y="760" />
+              <mxPoint x="-1630" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
