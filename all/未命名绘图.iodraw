@@ -1723,8 +1723,8 @@
         <mxCell id="Vpd0bGaRexXqUh_710q7-151" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2150" y="230" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Vpd0bGaRexXqUh_710q7-152" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2140" y="240" width="20" height="100" as="geometry" />
+        <mxCell id="Vpd0bGaRexXqUh_710q7-152" value="课程管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2000" y="708" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-153" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2540" y="74" width="20" height="92" as="geometry" />
@@ -1835,7 +1835,7 @@
           <mxGeometry x="-2190" y="424" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-189" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2180" y="434" width="20" height="92" as="geometry" />
+          <mxGeometry x="-2030" y="840" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-190" value="学生信息搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2092" y="840" width="20" height="92" as="geometry" />
