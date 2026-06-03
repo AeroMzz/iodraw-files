@@ -1619,16 +1619,16 @@
           <mxGeometry x="-2186" y="927" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-117" value="系统统计概览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2250" y="927" width="20" height="92" as="geometry" />
+          <mxGeometry x="-2240" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-118" value="中英文国际化切换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2350" y="920" width="20" height="128" as="geometry" />
+          <mxGeometry x="-2340" y="920" width="20" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-119" value="登录拦截与角色权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2370" y="920" width="20" height="169" as="geometry" />
+          <mxGeometry x="-2360" y="920" width="20" height="169" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-120" value="用户登录登出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2390" y="920" width="20" height="92" as="geometry" />
+          <mxGeometry x="-2380" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-121" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2450" y="-70" width="20" height="100" as="geometry" />
