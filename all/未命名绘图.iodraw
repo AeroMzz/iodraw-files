@@ -1600,6 +1600,9 @@
         <mxCell id="Vpd0bGaRexXqUh_710q7-2" value="会员管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1421" y="491" width="20" height="92" as="geometry" />
         </mxCell>
+        <mxCell id="Vpd0bGaRexXqUh_710q7-3" value="会员信息修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="570" width="20" height="92" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
