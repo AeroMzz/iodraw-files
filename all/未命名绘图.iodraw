@@ -1607,16 +1607,16 @@
           <mxGeometry x="-2360" y="790" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-113" value="删除学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2126" y="927" width="20" height="92" as="geometry" />
+          <mxGeometry x="-2112" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-114" value="编辑学生信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2146" y="927" width="20" height="92" as="geometry" />
+          <mxGeometry x="-2132" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-115" value="添加学生" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-2166" y="927" width="20" height="92" as="geometry" />
+          <mxGeometry x="-2152" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-116" value="学生列表查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2186" y="927" width="20" height="92" as="geometry" />
+          <mxGeometry x="-2172" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-117" value="系统统计概览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2240" y="920" width="20" height="92" as="geometry" />
@@ -1826,19 +1826,19 @@
           <mxGeometry x="-1914" y="927" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-186" value="删除课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1984" y="927" width="20" height="92" as="geometry" />
+          <mxGeometry x="-1980" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-187" value="编辑课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2004" y="927" width="20" height="92" as="geometry" />
+          <mxGeometry x="-2000" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-188" value="添加课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2024" y="927" width="20" height="92" as="geometry" />
+          <mxGeometry x="-2020" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-189" value="课程列表查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2044" y="927" width="20" height="92" as="geometry" />
+          <mxGeometry x="-2040" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-190" value="学生信息搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2106" y="927" width="20" height="92" as="geometry" />
+          <mxGeometry x="-2092" y="920" width="20" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
