@@ -1994,7 +1994,7 @@
             <mxPoint x="-1900" y="880" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-1850" y="910" />
-              <mxPoint x="-1860" y="910" />
+              <mxPoint x="-1860" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2004,7 +2004,7 @@
             <mxPoint x="-1900" y="870" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-1810" y="910" />
-              <mxPoint x="-1860" y="910" />
+              <mxPoint x="-1860" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2014,7 +2014,7 @@
             <mxPoint x="-1920" y="870" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-1830" y="910" />
-              <mxPoint x="-1860" y="910" />
+              <mxPoint x="-1860" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
