@@ -1598,7 +1598,7 @@
           <mxGeometry x="-2143" y="577" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-104" value="学生管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2132" y="708" width="20" height="100" as="geometry" />
+          <mxGeometry x="-2132" y="790" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-105" value="仪表盘模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2240" y="790" width="20" height="100" as="geometry" />
@@ -1839,6 +1839,12 @@
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-190" value="学生信息搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2092" y="920" width="20" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="Vpd0bGaRexXqUh_710q7-193" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2250" y="920" as="sourcePoint" />
+            <mxPoint x="-2200" y="870" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
