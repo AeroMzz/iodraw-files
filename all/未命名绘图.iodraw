@@ -1717,7 +1717,7 @@
         <mxCell id="Vpd0bGaRexXqUh_710q7-149" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2170" y="210" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Vpd0bGaRexXqUh_710q7-150" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vpd0bGaRexXqUh_710q7-150" value="成绩统计模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1710" y="700" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-151" value="成绩管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1805,7 +1805,7 @@
           <mxGeometry x="-2290" y="324" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-179" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2280" y="334" width="20" height="92" as="geometry" />
+          <mxGeometry x="-1740" y="840" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-180" value="导入导出成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1800" y="840" width="20" height="92" as="geometry" />
