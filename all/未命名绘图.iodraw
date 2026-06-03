@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ckprGf6KoZ9mkIbXPvDJ">
-    <mxGraphModel dx="3458" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3184" dy="1279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1604,7 +1604,7 @@
           <mxGeometry x="-2240" y="780" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-106" value="系统管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2360" y="780" width="20" height="100" as="geometry" />
+          <mxGeometry x="-2320" y="780" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-113" value="删除学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2120" y="920" width="20" height="92" as="geometry" />
@@ -1622,13 +1622,13 @@
           <mxGeometry x="-2240" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-118" value="中英文国际化切换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2340" y="920" width="20" height="128" as="geometry" />
+          <mxGeometry x="-2300" y="920" width="20" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-119" value="登录拦截与角色权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2360" y="920" width="20" height="169" as="geometry" />
+          <mxGeometry x="-2320" y="920" width="20" height="169" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-120" value="用户登录登出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2380" y="920" width="20" height="92" as="geometry" />
+          <mxGeometry x="-2340" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-121" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2450" y="-70" width="20" height="100" as="geometry" />
@@ -1842,27 +1842,27 @@
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-193" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vpd0bGaRexXqUh_710q7-120" target="Vpd0bGaRexXqUh_710q7-106">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2250" y="920" as="sourcePoint" />
-            <mxPoint x="-2200" y="870" as="targetPoint" />
+            <mxPoint x="-2210" y="920" as="sourcePoint" />
+            <mxPoint x="-2160" y="870" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2370" y="910" />
-              <mxPoint x="-2350" y="910" />
+              <mxPoint x="-2330" y="910" />
+              <mxPoint x="-2310" y="910" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-194" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vpd0bGaRexXqUh_710q7-119" target="Vpd0bGaRexXqUh_710q7-106">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2410" y="910" as="sourcePoint" />
-            <mxPoint x="-2360" y="860" as="targetPoint" />
+            <mxPoint x="-2370" y="910" as="sourcePoint" />
+            <mxPoint x="-2320" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-195" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vpd0bGaRexXqUh_710q7-118" target="Vpd0bGaRexXqUh_710q7-106">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2420" y="910" as="sourcePoint" />
-            <mxPoint x="-2370" y="860" as="targetPoint" />
+            <mxPoint x="-2380" y="910" as="sourcePoint" />
+            <mxPoint x="-2330" y="860" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2330" y="910" />
-              <mxPoint x="-2350" y="910" />
+              <mxPoint x="-2290" y="910" />
+              <mxPoint x="-2310" y="910" />
             </Array>
           </mxGeometry>
         </mxCell>
