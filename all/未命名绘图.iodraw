@@ -1714,7 +1714,7 @@
         <mxCell id="Vpd0bGaRexXqUh_710q7-148" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2180" y="200" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Vpd0bGaRexXqUh_710q7-149" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vpd0bGaRexXqUh_710q7-149" value="个人成绩查看模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1630" y="700" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-150" value="成绩统计模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
