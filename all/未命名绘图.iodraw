@@ -1604,7 +1604,7 @@
           <mxGeometry x="-2240" y="780" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-106" value="系统管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2360" y="790" width="20" height="100" as="geometry" />
+          <mxGeometry x="-2360" y="780" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-113" value="删除学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2120" y="920" width="20" height="92" as="geometry" />
@@ -1709,7 +1709,7 @@
           <mxGeometry x="-2200" y="180" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-147" value="教师管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="780" width="20" height="100" as="geometry" />
+          <mxGeometry x="-1590" y="780" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-148" value="查看本人所有课程成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1660" y="920" width="20" height="153" as="geometry" />
@@ -1793,13 +1793,13 @@
           <mxGeometry x="-1410" y="651" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-175" value="删除教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1520" y="920" width="20" height="92" as="geometry" />
+          <mxGeometry x="-1570" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-176" value="添加教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="920" width="20" height="92" as="geometry" />
+          <mxGeometry x="-1590" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-177" value="教师列表查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1560" y="920" width="20" height="92" as="geometry" />
+          <mxGeometry x="-1610" y="920" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-178" value="学生个人成绩详细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1720" y="920" width="20" height="120" as="geometry" />
@@ -2047,27 +2047,27 @@
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-215" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vpd0bGaRexXqUh_710q7-177" target="Vpd0bGaRexXqUh_710q7-147">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1610" y="920" as="sourcePoint" />
-            <mxPoint x="-1560" y="870" as="targetPoint" />
+            <mxPoint x="-1660" y="920" as="sourcePoint" />
+            <mxPoint x="-1610" y="870" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1550" y="900" />
-              <mxPoint x="-1530" y="900" />
+              <mxPoint x="-1600" y="900" />
+              <mxPoint x="-1580" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-216" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vpd0bGaRexXqUh_710q7-176" target="Vpd0bGaRexXqUh_710q7-147">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1620" y="920" as="sourcePoint" />
-            <mxPoint x="-1570" y="870" as="targetPoint" />
+            <mxPoint x="-1670" y="920" as="sourcePoint" />
+            <mxPoint x="-1620" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-217" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vpd0bGaRexXqUh_710q7-175" target="Vpd0bGaRexXqUh_710q7-147">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1620" y="900" as="sourcePoint" />
-            <mxPoint x="-1570" y="850" as="targetPoint" />
+            <mxPoint x="-1670" y="900" as="sourcePoint" />
+            <mxPoint x="-1620" y="850" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1510" y="900" />
-              <mxPoint x="-1530" y="900" />
+              <mxPoint x="-1560" y="900" />
+              <mxPoint x="-1580" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
