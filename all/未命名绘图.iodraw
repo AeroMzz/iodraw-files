@@ -1943,10 +1943,10 @@
           <mxGeometry x="-2226" y="430" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-118" value="会员信息修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2216" y="440" width="20" height="92" as="geometry" />
+          <mxGeometry x="-2336" y="833" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-119" value="登录拦截与角色权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2356" y="833" width="20" height="92" as="geometry" />
+          <mxGeometry x="-2356" y="833" width="20" height="169" as="geometry" />
         </mxCell>
         <mxCell id="Vpd0bGaRexXqUh_710q7-120" value="用户登录登出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2376" y="833" width="20" height="92" as="geometry" />
